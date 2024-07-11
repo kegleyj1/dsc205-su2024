@@ -1,0 +1,51 @@
+state_abb,state_name,population_2022,avg_household_income_2022,median_household_income_2022,area_sq_mile,state_capital,gdp_2022,unemployment_2022_pct,top_industry_1,top_industry_2,top_industry_3,statehood_yr
+AL,Alabama,5073903,78639.09,59609,50647.13,Montgomery,2.77817E+11,2.6,Manufacturing,Real estate,Professional and business services,1819
+AK,Alaska,733276,105162.63,86370,571022.38,Juneau,63618000000,4,"Mining, quarrying, and oil and gas extraction",Transportation and warehousing,Real estate,1959
+AZ,Arizona,7365684,100890.13,72581,113653.42,Phoenix,4.5895E+11,3.8,Real estate,Professional and business services,"Education, health care, and social services",1912
+AR,Arkansas,3046404,77114.15,56335,51992.85,Little Rock,1.65221E+11,3.3,Manufacturing,Professional and business services,Real estate,1836
+CA,California,39240000,84376,85300,155812000,Sacramento,2.89E+12,4.1,Tourism,Agriculture,Entertainment,1850
+CO,Colorado,5812000,117508,87598,103601000,Denver,3.8583E+11,3.3,Agriculture,Mining,Manufacturing,1876
+CT,Connecticut,3606000,130601,90213,5018000,Hartford,2.7667E+11,4,Finance and Insurance,Real Estate,Manufacturing,1788
+DE,Delaware,1019459,80750,79325,1982,Dover,65000000000,4.5,Finance and Insurance,Manufactoring,Fishing,1787
+FL,Florida,22240000,74580,65370,65757,Tallahassee,1.38907E+12,2.7,Tourism and Hospitality,Real Estate,Aviation & Aerospace,1845
+GA,Georgia,10913150,71355,67730,57919,Atlanta,5.9126E+11,3,Aerospace,Agriculture,Automotive,1788
+HI,Hawaii,1439399,122902,94814,10931,Honolulu,98218800000,3.7,Tourism,Agriculture,construction industries,1959
+ID,Idaho,1938996,72580,70214,82751,Boise,84000000000,2.7,Energy,Manufacturing,Agriculture,1890
+IL,Illinois,12810000,90861,72205,57918,Chicago,7.9797E+11,4.7,Agriculture,Manufacturing,Services,1818
+IN,Indiana,6790000,62743,79243,36418,Indianapolis,3.5296E+11,2.2,Manufacturing ,Agriculture,Transportation,1816
+IA,Iowa,3190000,65600,76320,56273,Des Moines,1.7709E+11,2.7,Agriculture,Manufacturing,Renewable Energies,1846
+KS,Kansas,2937150,94263,73040,82278,Topeka,1.6494E+11,2.7,"Corn, Wheat, & Soybean",Aircraft Part Sales,Farm Equipment Sales,1861
+KY,Kentucky,4511563,83093,55573,39480.9,Frankfurt,2.0138E+11,3.9,Manufacturing,Agriculture,Coal,1792
+LA,Louisiana,4588023,83169,52087,43210.23,Baton Rouge,2.1716E+11,3.7,Chemical,Petroleum ,Coal,1812
+ME,Maine,1354200,56000,57918,35385,Augusta,65000000000,4.2,Tourism,Agriculture,Manufacturing,1820
+MD,Maryland,6177600,78500,89571,12406,Annapolis,4.05E+11,3.8,Aerospace,Biotechnology,Services,1788
+MA,Massachusetts,7033500,72800,85843,10565,Boston,6E+11,3.5,Technology,Healthcare,Finance,1788
+MI,Michigan,10033281,92835,68505,96716,Lansing,5.399E+11,4.3,Agriculture,Tourism,Manufacturing,1837
+MN,Minnesota,5714300,110714.08,90390,86939,Saint Paul,4.465E+11,2.7,Agriculture,Manufacturing,Mining,1858
+MS,Mississipi,2938928,67660.16,48610,48432,Jackson,1.3874E+11,3.9,Agriculture,Manufacturing,Mining,1817
+MO,Missouri,6177168,87756.46,71520,69707,Jefferson City,3.89931E+11,2.5,Agriculture,Aerospace,Manufacturing,1821
+MT,Montana,1122878,91440.59,72980,147040,Helena,65014500000,2.6,Agriculture,Healthcare,Energy,1889
+NE,Nebraska,1967000,95547,71722,76796,Lincoln,1.61702E+11,2.7,Manufacturing,Agriculture,Finance,1867
+NV,Nevada,3178000,72330,71646,109831,Carson City,1.8723E+11,5.5,Real Estate,Accommodation and Food Services,Healthcare,1864
+NH,New Hampshire,1395000,118118,90845,8951,Concord,90150000000,2.9,Real Estate,Manufacturing,Healthcare,1788
+NJ,New Jersey,9260000,135170,92340,7352.9,Trenton,5.817E+11,3.3,Life Sciences,Technology,Clean Energy ,1787
+NM,New Mexico,2110000,81035,56420,121697,Santa Fe,94660000000,3.5,Energy,Aerospace,Defense,1912
+NY,New York,19673200,80751,75910,54556,Albany,2.05318E+12,4.3,Financial Services,Entertainment,Retail,1788
+NC,North Carolina,10695965,93244.59,65070,53819,Raleigh,7.30072E+11,3.7,Aerospace,Automotive,Biotechnology,1789
+ND,North Dakota,770026,63837,61354,70698,Bismarck,60000000000,2.3,Agriculture,Energy,Technology,1889
+OH,Ohio,11760000,90958,66990,40848,Columbus,8.2267E+11,4.1,Manufacturing,Agriculture,Automotive,1803
+OK,Oklahoma,4019271,84402,61364,69895,Oklahoma City,2.40534E+11,3.2,Oil Drilling,Gasoline Wholesaling,Hospitals,1907
+OR,Oregon,4240000,76632,86780,95962,Salem,2.3481E+11,4.8,Health Insurance,Hospitals,Manufacturing,1859
+PA,Pennsylvania,12972091,104608.43,72210,46054,Harrisburg,9.23089E+11,4.4,Food Processing,Industrial Machinery,Fabricated Metals,1787
+RI,Rhode Island,1093734,81370,80650,1214,Providence,55410000000,3.2,Agriculture,Fishing,Manufacturing,1790
+SC,South Carolina,5282955,88909.64,61770,32020,Columbia,2.95881E+11,3.2,Agriculture,Tourism,Automotive,1788
+SD,South Dakota,909869,90706,69457,75789.6,Pierre,67570700000,2.2,Agriculture,Mining and Power,Manufacturing,1889
+TN,Tennessee,7048976,89627,64035,41227.1,Nashville,3.6778E+11,3.5,Healthcare,Retail,Manufacturing,1796
+TX,Texas,30029572,102197,73035,268193.9,Austin,2.35596E+12,3.8,Mining,Quarrying,Oil and Gas,1845
+UT,Utah,3381236,111416,86833,84899,Salt Lake City,2.139E+11,2.3,Financial,Transportation,Utililties,1896
+VT,Vermont,646000,72190,72190,9215.4,Montpelier,31400000000,2.6,Agriculture,Forestry,Tourism,1791
+VA,Virginia,8670000,85170,85170,39471.7,Richmond,5.1295E+11,2.9,Service,Technology,Agriculture,1788
+WA,Washington,7900000,89430,89430,71362,Olympia,6.41E+11,4.2,Food and Agriculture,Aerospace,Construction,1889
+WV,West Virginia,1774035,75575,52460,24038,Charleston,71700000000,4.1,Mining,Manufacturing,Agriculture,1863
+WI,Wisonnsin ,5890000,94995,73330,65498,Madison,3.117E+11,3,Manufacturing,Agriculture,Healthcare,1848
+WY,Wyoming,581629,94900,72495,97813,Cheyenne,36350000000,3.9,Mining,Real estate,Rental/Leasing,1890
